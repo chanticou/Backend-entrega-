@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Chispitas",
+      "specie": "Parrot",
+      "thumbnail": "http://localhost:8080/img/1644493685389-parrot.jpg",
+      "id": 1
+   },
+   {
+      "name": "Orejas",
+      "specie": "Rabbit",
+      "thumbnail": "http://localhost:8080/img/1644495690779-rabbit.jpg",
+      "id": 2
+   },
+   {
+      "name": "Copos",
+      "specie": "Lorito",
+      "thumbnail": "http://localhost:8080/img/1644504239186-rabbit.jpg",
+      "id": 3
+   }
+]
